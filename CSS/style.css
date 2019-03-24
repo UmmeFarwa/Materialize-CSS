@@ -1,0 +1,258 @@
+.card-para
+{
+    padding-bottom: 40px;
+    font-weight:bold;
+    font-size: 18px;
+
+}
+i
+{
+    color:#EC5E87;
+    
+}
+.fixed
+{
+    position:fixed;
+}
+.width-collapse
+{
+    width:80%;
+    margin: auto;
+    border: hidden !important;
+    text-decoration: none;
+    
+}
+.position
+{
+    position: relative;
+    top:150px;
+}
+.position-row
+{
+    position: relative;
+    top:180px;
+}
+.background-attachment
+{
+    background-attachment: fixed;
+}
+.width
+{
+    width:100%;
+}
+input:focus
+{
+    border-bottom:1px solid #EC5E87 !important;
+}
+input:active
+{
+    border-bottom:1px solid #EC5E87 !important;
+}
+.card-para:hover
+{
+    color:#EC5E87;
+    cursor: pointer;
+}
+.margin
+{
+    margin-top:7%;
+}
+.padding
+{
+    padding:40px;
+}
+.read-more-button
+{
+    background-color: #EC5E87;
+    text-transform: capitalize;
+    padding:10px 50px;
+    padding-bottom: 40px !important;
+    
+}
+.read-more-button:hover
+{
+    background-color: rgb(236, 37, 93);
+}
+.read-more-button:focus
+{
+    background-color: #EC5E87;
+}
+.donate-hover:hover
+{
+ background-color:#EC5E87 !important;
+}
+.bg
+{
+    background-color: #213E8C;
+    color: white;
+    padding:60px;
+    font-style: italic;
+}
+.hover-effect:hover .display
+{
+    display:none;
+    
+}
+.width-collapse li .collapsible-header
+{
+    padding-top:50px;
+    margin:1%;
+    font-size:20px;
+    font-weight: bold;
+   
+}
+.right-sidebar{
+    position:fixed;
+    top:50%;
+    right:-15px;
+    z-index: 999;
+}
+.right-sidebar ul
+{
+    border:none;
+
+}
+.right-sidebar i.fa
+{
+    
+    font-size:20px;
+    color:white;
+    
+}
+.right-sidebar li
+{
+    width:80%;
+    
+
+
+}
+.right-sidebar li:nth-child(1)
+{
+    background:#0E2973;
+
+}
+.right-sidebar li:nth-child(2)
+{
+    background:#0E2973;
+
+}.right-sidebar li:nth-child(3)
+{
+    background:#0E2973;
+
+}.right-sidebar li:nth-child(4)
+{
+    background:#0E2973;
+
+}
+
+.collapsible li
+{
+    margin:2%;
+    padding-top:10px;
+
+}
+
+.small-font
+{
+    font-size:20px;
+}
+.width-collapse li:hover .collapsible-header
+{
+    color:#EC5E87;
+}
+.collapsible-header
+{
+    margin:2% !important;
+
+}
+.background-color
+{
+    background-color:rgb(29, 21, 21);
+ 
+}
+.footer-bg
+{
+    background-color: #101F46;
+    color:white;
+    padding-top:5px;
+}
+
+.blue-bg
+{
+   
+    background-color: #213E8C;
+    color:white;
+    
+}
+
+.height
+{
+    height:100%;
+}
+.padding-top
+{
+    padding-top: 40px;
+
+     padding-left: 40px;
+     padding:10px;
+}
+.box1
+{
+    background-color: #EC5E87;
+    color:white;
+}
+.box2
+{
+    color:white;
+    background-color:#7DABF4;
+}
+.box3
+{
+    color:white;
+    background-color:#213E8C;
+}
+.sign-up
+{
+    width:100%;
+    color:white !important;
+}
+.font
+{
+    font-weight:bold;
+}
+.styling a
+{
+ color:black;
+}
+.quick-links li
+{
+    padding-bottom:10px;
+    padding:5px;
+}
+.image
+{
+
+    background-image: url(../images/capture\(1\).jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    height:700px;
+
+    
+
+
+}
+@media only screen and (max-width: 700px)
+{
+    .margin
+    {
+        margin-top:400px;
+    }
+   
+.display,.collapsible-header span
+{
+    font-size:13px;
+}
+
+}
